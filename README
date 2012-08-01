@@ -1,0 +1,12 @@
+Retinal Disease Gene Prioritization
+AH Wagner, et. al
+
+Here is a compiled and packaged version of our code for our project. This runs the logistic regression method for producing probabilities for each gene.  The output could then be redirected into a text file and then sorted in decreasing order of probabilities to get the ranking.
+
+Usage:
+
+java -jar -Xmx2G CG_Method_LogisticRegression.jar features.csv
+
+OR
+
+java -jar -Xmx2G CG_Method_LogisticRegression.jar features.csv > output.csv
