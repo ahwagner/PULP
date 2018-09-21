@@ -1,6 +1,7 @@
 # Positive and Unlabeled Learning for Prioritization
 
-Our 2013 publication describing this work:
+Please cite our 2013 publication when using this work:
+
 Wagner, A. H. et al. Prioritization of retinal disease genes: an integrative approach. _Hum Mutat_ 34, 853-859, [doi:10.1002/humu.22317](https://onlinelibrary.wiley.com/doi/abs/10.1002/humu.22317) (2013).
 
 
